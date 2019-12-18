@@ -1,0 +1,9 @@
+﻿{
+  "FriendlyName": "Enemy Indicators",
+  "Author": "Ciastex",
+  "Contact": "Ciastex#6170",
+  "ModuleFileName": "GTTOD.TargetIndicators.dll",
+  "Priority": 10,
+  "SkipLoad": false,
+  "Dependencies": []
+}

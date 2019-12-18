@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29424.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GTTOD.TargetIndicators", "GTTOD.TargetIndicators\GTTOD.TargetIndicators.csproj", "{CAFF8F00-5B0B-4EBF-8C94-44DE439FC86F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CAFF8F00-5B0B-4EBF-8C94-44DE439FC86F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAFF8F00-5B0B-4EBF-8C94-44DE439FC86F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAFF8F00-5B0B-4EBF-8C94-44DE439FC86F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAFF8F00-5B0B-4EBF-8C94-44DE439FC86F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C5022A21-94E2-4739-87FF-4D563FAB5C4E}
+	EndGlobalSection
+EndGlobal
