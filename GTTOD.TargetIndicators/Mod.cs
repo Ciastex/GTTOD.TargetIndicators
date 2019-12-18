@@ -22,6 +22,7 @@ namespace GTTOD.TargetIndicators
 
         private void SceneManager_sceneLoaded(Scene arg0, LoadSceneMode arg1)
         {
+            SceneManager.sceneLoaded -= SceneManager_sceneLoaded;
             Textures.Initialize(_fs);
         }
 
